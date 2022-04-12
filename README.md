@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=soft &Color=E3A6AE &height=260 &section=header &text=sojung%20profile &fontSize=100")
-
+![header](https://capsule-render.vercel.app/api?type=wave &color=auto &height=300 &section=header &text=capsule%20render &fontSize=90)
 
 **thwjd1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
