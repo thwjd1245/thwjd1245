@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving &Color=auto &height=260 &section=header &text=sojung%20portfolio &fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving &Color=auto &height=260 &section=header &text=sojung%20profile &fontSize=100" />
 <!--
   {
         "idx": 0,
