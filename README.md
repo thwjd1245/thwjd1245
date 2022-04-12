@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=idx&height=300&section=header&text=capsule%20render&fontSize=90" />
 {
         "idx": 0,
-        "color": "#fff0f5",
+        "color": "fff0f5",
         "text": "363636",
         "textBg": "f7f5f5"
     }
